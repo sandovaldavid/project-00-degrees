@@ -91,6 +91,16 @@ El núcleo del proyecto es la función `shortest_path` que implementa un algorit
 Este proyecto está bajo la Licencia MIT.
 
 ---
+## 👨‍💻 Autor
+
+### [David Sandoval](https://github.com/sandovaldavid)
+
+-   🌐 Portafolio: [devsandoval.me](https://devsandoval.me)
+-   💼 LinkedIn: [@devsandoval](https://linkedin.com/in/devsandoval)
+-   💻 GitHub: [@sandovaldavid](https://github.com/sandovaldavid)
+-   📧 Email: [contact@devsandoval.me](mailto:contact@devsandoval.me)
+
+---
 
 ⭐ **Proyecto inspirado en el concepto de "Six Degrees of Kevin Bacon"** ⭐
 

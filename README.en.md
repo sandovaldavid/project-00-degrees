@@ -91,6 +91,15 @@ Contributions are welcome! You can improve the algorithm, optimize the code, or 
 This project is under the MIT License.
 
 ---
+## 👨‍💻 Autor
+
+### [David Sandoval](https://github.com/sandovaldavid)
+
+-   🌐 Portafolio: [devsandoval.me](https://devsandoval.me)
+-   💼 LinkedIn: [@devsandoval](https://linkedin.com/in/devsandoval)
+-   💻 GitHub: [@sandovaldavid](https://github.com/sandovaldavid)
+-   📧 Email: [contact@devsandoval.me](mailto:contact@devsandoval.me)
+---
 
 ⭐ **Project inspired by the "Six Degrees of Kevin Bacon" concept** ⭐
 
